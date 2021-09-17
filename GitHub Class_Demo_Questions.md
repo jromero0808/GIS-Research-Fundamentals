@@ -3,11 +3,11 @@
 
 ** 1. What Licensing Agreement did you choose and why?**
 + I choose Public Domain Dedication (CC Zero) license because it authorizes scientists, educators, artists, and other creators to use, 
-+ improve, and reuse the data without restrictions.
+  improve, and reuse the data without restrictions.
 
 ** 2. What are data archiving options are recommended by the Montana State University Library? **
 + The data archiving options recommended by Montana State University are Zenodo, Dryad, and Icpsr.
-+ However, it is mentioned on the library page that Zenodo integrates with GitHub.
+  However, it is mentioned on the library page that Zenodo integrates with GitHub.
 
 ** 3. How would using GitHub help make your data/code align with FAIR Protocols? **
 + Using GitHub may align my data to FAIR Protocols because include a description of the data, and a name will improve the findability. 
@@ -27,7 +27,7 @@
 
 ** 6. What data/code from your grad project would you envision publishing on GitHub? **
 + I may publish data of the network roadway in analysis such as the location of crashes, traffic lights, and quality of the roadway 
-+ because these data do not have many restrictions by a department of transportation.
+because these data do not have many restrictions by a department of transportation.
 
 ** 7. What data/code would you not publish? Why? **
 + I would not publish data that compromises people's information, car insurance, and data that break a department of transportation rules. 
