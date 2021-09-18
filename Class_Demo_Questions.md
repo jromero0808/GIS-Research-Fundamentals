@@ -1,7 +1,7 @@
 # ** Class Demo - Questions **
 ## ** Name: Junior Vilcapoma**
 
-** 1. What Licensing Agreement did you choose and why?**
+1. **What Licensing Agreement did you choose and why?**
 + I choose Public Domain Dedication (CC Zero) license because it authorizes scientists, educators, artists, and other creators to use, 
   improve, and reuse the data without restrictions.
 
